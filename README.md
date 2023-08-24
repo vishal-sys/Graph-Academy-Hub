@@ -9,14 +9,14 @@ The goal of The Graph Academy is to establish a single go-to-resource for essent
 We seek to create this single source of essential information on The Graph through the following community initiatives:
 
 1. [The Graph Academy](https://thegraph.academy/) for hands-on, interactive tutorials and detailed guides´as well as news and discussions on recent developments in the The Graph ecosystem and much more&#x20;
-2. [The Graph Hub](https://github.com/TheGraphAcademy/Graph-Academy-Hub/) for detailed documentation from the figureheads and experts in The Graph community as well as everyone else who likes to participate
+2. [The Graph Hub](https://github.com/TheGraphAcademy/Graph-Academy-Hub/) for detailed documentation from the figureheads and experts in The Graph community as well as everyone else who likes to participate.
 3. Montly community meetups that showcase new features and use cases
-4. [The monthly The Graph Academy Podcast](https://soundcloud.com/graph-community-podcast) with exciting interviews and in-depth discussions on the protocol we all have come to love so much
+4. [The monthly The Graph Academy Podcast](https://soundcloud.com/graph-community-podcast) with exciting interviews and in-depth discussions on the protocol we all have come to love so much.
 5. [Graphylicous Monthly Newsletter](https://thegraph.academy/) with insightful updates about The Graph and community initiatives in the ecosystem to keep you up to date
 
 You are now in the Docs section which is the core of The Graph Academy. The documentation is hosted on GitHub and made freely available as open source. This means that anyone in the community is able to contribute to this documentation. Doing so allows this initiative to keep the community-driven information unbiased, up to date and concise.
 
-If you're new to The Graph Protocol, you can learn more about it in this introduction: [What the Graph Is](https://thegraph.com/docs/about/introduction)
+If you're new to The Graph Protocol, you can learn more about it in this introduction: [What the Graph Is](https://thegraph.com/docs/about/introduction).
 
 ## How to make changes to The Graph Hub
 
@@ -42,6 +42,9 @@ To keep the community safe and secure, every contributor upholds the following g
 * No offtopic-discussion
 * No affiliate links
 * No hate speech
+* Respect the community guidelines and be courteous to fellow participants.
+* Keep discussions focused on The Graph-related topics and projects.
+* Respect the diversity of opinions and viewpoints within the community.
 
 ### We reserve the right to moderate or remove posts that contain factual inaccuracies or unsubstantiated claims or violate the rules.
 
